@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+
+
+### Project Description
+
+Simple conversion of image text to the actual text with the use of the RapidAPI.
+Please register with RapidAPI pen to print endpoint and apend .env with your key.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
